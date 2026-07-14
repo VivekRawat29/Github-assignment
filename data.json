@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "name": "Laptop"
+        "name": "Vivek"
     },
     {
         "id": 2,
-        "name": "Mouse"
+        "city": "Haryana"
     },
     {
         "id": 3,
-        "name": "Keyboard"
+        "Course":"Btech"
     }
-]
+    
